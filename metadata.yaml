@@ -1,0 +1,32 @@
+_repo: Frank-Merriwell-s-Trust-Never-Say-Die_62639
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Standish, Burt L.
+    aliases:
+    - Patten, William Gilbert
+    - Wilder, William West
+    - Patten, George William
+    - Patten, William G. (William Gilbert)
+    - Wilder, William W. (William West)
+    - Patten, Gilbert
+    birthdate: 1866
+    deathdate: 1945
+    gutenberg_agent_id: '3848'
+    url: http://www.gutenberg.org/2009/agents/3848
+    wikipedia: https://en.wikipedia.org/wiki/Burt_L._Standish
+description: ''
+gutenberg_issued: '2020-07-14'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '62639'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: 'Frank Merriwell''s Trust
+
+  Never Say Die'
+url: http://www.gutenberg.org/ebooks/62639
